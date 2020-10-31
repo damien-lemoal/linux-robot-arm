@@ -79,8 +79,12 @@ Command ('h' for help):
 
 ## Example
 
-[This video](example/riscv-arm.mov) shows the 6-DoF arm in action with a tiny
-SiPeed K210 RISC-V board used as a host.
+[This video](https://damien-lemoal.github.io/linux-robot-arm/#example) shows a
+6-DoF robot arm in action with a tiny SiPeed K210 RISC-V board used as a host.
+
+<video width="240" controls>
+  <source type="video/mp4" src="example/riscv-arm.mp4">
+</video>
 
 The Linux kernel tree for this board is available
 [here](https://github.com/damien-lemoal/linux), in the branch *k210-sysctl-v12*.
